@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @akshaytekam
 Akshay Tekam. I have done my graduation in Computer Science. 
-I also have working experience as a Sr. Process Executive in Infosys Ltd. India.
 Currently i'm working with Bangalore based IT company MANTRALABS GLOBAL as a Software Engineer.
+I also have working experience as a Sr. Process Executive in Infosys Ltd. India.
 - 👀 I’m interested in...
 DevOps tools and activities. I have good knowledge of Python, AWS cloud environment, Networking, Linux, MYSQL Database, Jmeter tool, Jira.
 - 🌱 I’m currently learning 
