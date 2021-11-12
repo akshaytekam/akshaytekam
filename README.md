@@ -3,9 +3,9 @@ Akshay Tekam. I have done my graduation in Computer Science.
 Currently i'm working with Bangalore based IT company MANTRALABS GLOBAL as a Software Engineer.
 I also have working experience as a Sr. Process Executive in Infosys Ltd. India.
 - 👀 I’m interested in...
-DevOps tools and activities. I have good knowledge of Python, AWS cloud environment, Networking, Linux, MYSQL Database, Jmeter tool, Jira.
+Full Stack Web Devlopment and DevOps tools. I have good knowledge of Java, Python, AWS cloud environment, Networking, Linux, MYSQL Database.
 - 🌱 I’m currently learning 
-Jenkins, Docker, and many more Advance DevOps tools  
+Node.js, Express.js, Mongo DB, Mysql, React, Bootstrap, and HTML, CSS, JavaScript. 
 - 💞️ I’m looking to collaborate with ..
 such industry where i can enhance my knowledge funther by making useful contribution to the team.
 - 📫 How to reach me ...
