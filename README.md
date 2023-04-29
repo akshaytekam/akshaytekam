@@ -1,11 +1,11 @@
 - 👋 Hi, I’m @akshaytekam
 Akshay Tekam. I have done my graduation in Computer Science. 
-Currently i'm working with Bangalore based IT company MANTRALABS GLOBAL as a Software Engineer.
+Currently i'm working with Mumbai based IT company Quantiphi as a Software Developer.
 I also have working experience as a Sr. Process Executive in Infosys Ltd. India.
 - 👀 I’m interested in...
-Full Stack Web Devlopment. I have good knowledge of Java,Javacript, HTML, CSS, NodeJs, React, Mongo-DB, AWS cloud environment, Networking, Linux.
+Data Analysis, Data Science, and Web Devlopment. I have good knowledge of Python, Excel, SQL, Tableau, Javacript, HTML, CSS, NodeJs, React,Networking, GCP.
 - 🌱 I’m currently learning 
-Node.js, Express.js, React, Bootstrap, and HTML, CSS, JavaScript. 
+Tableau, Mathematics, ML. 
 - 💞️ I’m looking to collaborate with such industry where i can enhance my knowledge funther by making useful contribution to the team.
 - 📫 How to reach me ...
 Email: tekamakshay11@gmail.com
