@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @akshaytekam
 Akshay Tekam. I have done my graduation in Computer Science 
-Currently i'm pursuing Masters in Data Science and learning technologies like Python, SQL, Power BI, Pandas, Numpy, Data Preprocessing, EDA, ML Algorithms and many more.
+Currently i'm pursuing Masters in Data Science and I know technologies like Python, SQL, Power BI, Pandas, Numpy, Data Preprocessing, EDA, ETL, ML Algorithms and many more.
 - 👀 I’m interested in...
 Data Analysis, Data Science, and Web Devlopment. I have good knowledge of Python, SQL, Power BI, Data Analytics, EDA Process, Excel, HTML, CSS.
 - 🌱 I’m currently learning 
